@@ -1,0 +1,35 @@
+/* CAmbio de estilo a traves del CSS */
+/* Por atributos */
+h1{
+   color:#8B0000;
+   font-size: 60px;
+   text-align: center;
+   }
+p{
+   text-align:justify;
+   color:#000080;
+   font-size: 18px;
+  }
+/* por clase */
+/* se inicia con . + nombre del las clase  */
+  .title-h2{
+   color:#008050;
+   font-size: 36px;
+   text-align: center;
+}
+/* atributo id */
+/* este solo se utiliza una vez */
+#title-h4{
+   color: #820032bb;
+   font-size: 20px;
+   text-align: right;
+}
+.imagen{
+display:flex;
+justify-content: space-around;
+align-items: center;
+
+}
+/* esto son comentarios en CSS */
+/* abreviado ^} */
+
